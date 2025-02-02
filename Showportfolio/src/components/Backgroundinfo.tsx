@@ -138,7 +138,7 @@ function Intro() {
               {["React Native", "TypeScript", "Clerk"].map((tech, index) => (
                 <span
                   key={index}
-                  className="inline-block border border-gray-500 rounded-full px-2 py-1 mr-2 mb-1"
+                  className="inline-block border  border-gray-500 rounded-full px-2 py-1 mr-2 mb-1"
                 >
                   {tech}
                 </span>
